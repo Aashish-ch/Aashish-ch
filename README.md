@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aashish Choudhary</h1>
-<h3 align="center">A passionate full-stack developer from India that loves to work on backend as everyone see that first(iykyk))</h3>
+<h3 align="center">A passionate full-stack developer from India that loves to work on backend as it is imp(iykyk))</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-ch&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-ch" /> </p>
 
-- 🔭 I’m currently working on **Nothinng**
+- 🔭 I’m currently working on **NAA**
 
 - 🌱 I’m currently learning **DevOps**
 
