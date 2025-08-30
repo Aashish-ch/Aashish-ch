@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ashishcyofficial@gmai.com**
 
-- ⚡ Fun fact **ATMKBPJG**
+- ⚡ Fun fact **thinking..... :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
