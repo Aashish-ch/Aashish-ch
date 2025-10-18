@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-ch&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-ch" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **WEB3**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
